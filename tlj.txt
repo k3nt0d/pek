@@ -13,3 +13,38 @@
 (announcement protocol)
 8.kode pada sistem penelponan sip yang berfungsi untuk menginformasikan pada saat sistem membutuhkan tindakan lebih lanjut untuk memproses permintaan yaitu
 (3xx)
+9.Kumpulan dari beberapa instruksi eksekusi pada dial plan yang membedakan interaksi dial plan dart satu grup dengan grup yang lain adalah komponen
+(context)
+10.Dibawah ini yang bukan merupakan fungsionalitas layanan yang disediakan oleh softswitch adalah
+(menyediakan komunikasi dengan biaya yang terjangkau)
+11.(Routing panggilan antar ekstensi)
+12.Data account yang digunakan agar dapat terhubung dengan PBX disebut dengan
+(extension)
+13.Dalam konfigurasinya outbound routes digunakan untuk mengatur
+(tujuan panggilan)
+14.Berdasarkan perintah konhgurası ekstensi diatas, yang merupakan nama atau nomor account user account adalah
+(softphone 101)
+15.Berikut yang bulkan merupakan komponen utama yang menyusue Trixbox adalah
+(switch hub)
+16.Parameter yang digunakan untuk menentukan waktu maksimum default yang diizinkan antars digit yang dihubungi ketika setidaknya terdapat satu urutan digit yang sedang dipanggil adalah
+(interdigit_long_timer)
+17.sistem komunikasi Softswitch merupakan perangkat yang terletak di pusat jaringan sang menghubungan panggilan telepon dari satu saluran ke saluran lainnya Salah satu teknologi yang dapat apet ditreskan sa ekstensi dan chel plan. Ekstensi memiliki keuntungan yaitu dapat melakukan penggilan secara efektif karena
+(ektensi dapat melakukan panggilan hanya dengan menggunakan tiga sampai empat digit angka)
+18.Seorang karyawan di salah satu perusahaan IT Developer melakukan panggilan dengan nimiggunaan ekstensi dan dial plon server softswitch. Apabila penggilan tersebut dikirim ke aplikas utama pesan sure sehingga penelepon akan diminta untuk memberikan nomor dan pozzword kotak suara dan mesginkan seseorang yang diteleponnya untuk memeriksa voicemail, maka dapat dengan menekan nomur
+(2)
+19. Berkomunikasi dengan menggunakan ekstensi den dol plon server toch, dassare anuban
+nienjadi kode digital dan akan jaringan yang mengirimkan paket data star bukan menguran shult anakog telepon 1574 Sebuah komponen pada sever somit seat panggilan masuk atau keluar, tal ini berarti sistem bekerja pads akan menutekas pergen att
+(Dial plan)
+20.(flash operator panel)
+21.(penambahan user dengan nama divisi dan menggunakan password 321)
+22.dalam perkembangan teknologi saat ini banyak sekali layanan komunikasi yang dapat digunakan oleh
+23.masyarakat Semua layanan komunikasi telah berkembang menjadi jenis layanan berbasis internet sehingga dapat menggantikan peran telepon konvensional sato perkembangan teknologi yang dapat Salah s digunakan untuk menggantikan telepon konvensional yaitu skype. Keuntungannya adalah tersedianya layanan keamanan hal ini karena
+(Skype merupakan server softswitch berbasis sip yang menggunakan peer to peer signaling protokol yang mengizinkan endpoint nya untuk memulai dan mengakhiri sessions komunikasi)
+24.standar protokl yang digunakan oleh sip merupakan standar yang direkomendasikan oleh ITU-T standar ini terdiri dari tiga komponen pada saat sistem sip menangani panggilan routing untuk komunikasi ke gateway.... dan perangkat pengguna bekerja pada komponen
+(call processing server)
+25.hal ini disebabkan oleh
+(sip merupakan layanan yang dibuat dengan call processing language yang memiliki kemampuan find-me/follow-me
+26.disebuah instansi akan dipasang instalasi sip untuk memudahkan dalam melakukan call/messaging maka teknisi harus memasang
+(paniter)
+27. server softswitch merupakan konsep teknologi layanan jaringan masa depan yang dikembangkan dari pendekatan pstn voip dan jaringan data server softswitch salah satunya  dapat berbasis sip menghentikan permintaan panggilan, maka perintah yang tetap untuk digunakan adalah perintah
+(cancel)
