@@ -1,0 +1,15 @@
+1.Suatu signaling protokol pada layer aplikasi yang berfungsi untuk membangun, memodifikasi, dan mengakhiri suatu sesi multimedia yang melibatkan satu atau beberapa pengguna adalah.
+(Session inititation protocol)
+2.layanan sip yang digunakan untuk transfer data secara real time yaitu.
+(RTP)
+3.salah satu dari protokol voip yang penerapannnya ditemukan secara luas untuk lalu lintas jarak jauh, seperti layanan jaringan area lokal (lan) adalah
+(H.323)
+4.menentukan point to point dan panggilan multi partial yang telah ditetapkan dengan parameter sesi yang disepakati adalah merupakan aspek
+(pengaturan sesi)
+5.(mendeskripsikan media dalam suatu komunikasi)
+6.mode entitas sip dimana sistem akan mendapatkan permintaan, memproses permintaan tersebut, dan menghasilkan tanggapan adalah
+(user agent server)
+7.dibawah ini yang bukan merupakan komponen pada server softswitch berbasis sip adalah
+(announcement protocol)
+8.kode pada sistem penelponan sip yang berfungsi untuk menginformasikan pada saat sistem membutuhkan tindakan lebih lanjut untuk memproses permintaan yaitu
+(3xx)
